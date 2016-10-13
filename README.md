@@ -10,5 +10,5 @@ Per repository from github
 add
 
 	[user]
-		name = Wand Jens-Peter
-		email = jens-peter.wand@metrosystems.net
+		name = uuand
+		email = uuand@dom.local
